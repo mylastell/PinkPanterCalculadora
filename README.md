@@ -1,2 +1,2 @@
-# PinkPanterCalculadora
+# PinkPanterCalc
 Created with CodeSandbox
